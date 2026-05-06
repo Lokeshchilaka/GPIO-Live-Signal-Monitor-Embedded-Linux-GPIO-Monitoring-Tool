@@ -268,8 +268,8 @@ sudo apt install gpiod
 
 ```bash
 python3 gpio_monitor.py
-👉 [View Code](./files/gpio_monitor.py)
 ```
+👉 [View Code](./files/gpio_monitor.py)
 
 ---
 
