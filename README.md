@@ -46,7 +46,7 @@ This project reads live GPIO states from the Linux GPIO subsystem and performs e
 
 # 🗂️ Project Structure
 
-![Project Files](./images/files.png)
+![Project Files](./images/file.png)
 
 ---
 
