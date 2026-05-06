@@ -266,7 +266,7 @@ sudo apt install gpiod
 
 ### 🔹 Run the Monitor
 
-```bash
+bash
 python3 gpio_monitor.py
 ```
 
