@@ -42,14 +42,6 @@ gpioget
 
 This project reads live GPIO states from the Linux GPIO subsystem and performs event detection in real time.
 
----
-
-# 🗂️ Project Structure
-
-![Project Files](./images/file.png)
-
----
-
 # 🔄 System Workflow
 
 ```text
