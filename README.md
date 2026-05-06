@@ -46,7 +46,7 @@ This project reads live GPIO states from the Linux GPIO subsystem and performs e
 
 # 🗂️ Project Structure
 
-![Project Files](images/files.png)
+![Project Files](./files/files.png)
 
 ---
 
@@ -72,7 +72,7 @@ Real-Time Event Detection
 
 # ⚙️ Version 1 — Basic GPIO Monitoring
 
-![V1 Output](images/v1.png)
+![V1 Output](./files/setup.png)
 
 ### ⚡ Features
 
@@ -167,7 +167,7 @@ Monitors GPIO state every 1 second.
 
 # 🖥️ Example Output
 
-![Live Monitoring](images/v2.png)
+![Live Monitoring](./files/running.png)
 
 ```text
 ===== LIVE GPIO MONITOR =====
