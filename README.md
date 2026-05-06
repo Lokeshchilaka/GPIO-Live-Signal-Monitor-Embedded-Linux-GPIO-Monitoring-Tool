@@ -1,6 +1,6 @@
 # 🚀 GPIO Live Signal Monitor — Embedded Linux GPIO Monitoring Tool
 
-![GPIO Monitor](images/banner.png)
+![GPIO Monitor](./images/project3banner.png)
 
 > ⚡ Detect • Monitor • Analyze  
 > A Python-based Embedded Linux GPIO monitoring tool using `libgpiod` utilities for real-time signal observation.
